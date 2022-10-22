@@ -1,0 +1,15 @@
+@font-face {
+    font-family: PoiretOne-Regular;
+    src: url(PoiretOne-Regular.ttf);
+}
+
+body{
+    font-family: 'Maitree', serif;
+    font-family: 'Poiret One', cursive;}
+
+
+img {
+    width: 500PX;
+    height: auto;
+}
+
